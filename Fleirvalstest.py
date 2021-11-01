@@ -31,3 +31,5 @@ class Fleirvalstest:
             testtekst += f"({key+1}) {value} \n" 
         return testtekst
     
+    
+# Test
