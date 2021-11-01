@@ -30,6 +30,4 @@ class Fleirvalstest:
         for key, value in enumerate(self.__svar_alt):
             testtekst += f"({key+1}) {value} \n" 
         return testtekst
-    
-    
-# Test
+   #Removed
